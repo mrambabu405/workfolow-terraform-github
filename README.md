@@ -1,1 +1,1 @@
-# workfolow-terraform-github
+# terraform-workflow-githubaction
